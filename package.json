@@ -1,0 +1,19 @@
+{
+  "name": "sobha-by-yuvi",
+  "version": "1.0.0",
+  "description": "Sobha Privy Collection — Luxury Villas & Penthouses in Dubai",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [
+    "sobha",
+    "luxury",
+    "real-estate",
+    "dubai",
+    "webgl",
+    "3d-map"
+  ],
+  "author": "Yuvi",
+  "license": "MIT"
+}

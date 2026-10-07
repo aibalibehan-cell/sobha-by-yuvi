@@ -1,0 +1,21 @@
+/* Altesse Std local fonts */
+@font-face {
+  font-family: "altesse-std-24pt";
+  src: url("../fonts/altesse-std-24pt.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "altesse-std-64pt";
+  src: url("../fonts/altesse-std-64pt.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+.tk-altesse-std-24pt { font-family: "altesse-std-24pt", sans-serif; }
+.tk-altesse-std-64pt { font-family: "altesse-std-64pt", sans-serif; }
